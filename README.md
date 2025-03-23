@@ -24,4 +24,4 @@ Doubles the stack size of most items in the game — except weapons, clothing, a
 
 1. Download `SimpleStackSizeMultiplier.cs`
 2. Drop it into your server’s `oxide/plugins` folder
-3. Reload with:
+3. Reload the plugin
